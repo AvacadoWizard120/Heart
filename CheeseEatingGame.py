@@ -15,4 +15,10 @@ print('\n If your risk goes above a certain threshhold, you will have a heart at
 
 q1 = str('This is a test question.')
 
+q2 = str('Test question number 2')
+
+q2 = str('Test question number 3')
+
+q3 = str('Test question number 4')
+
 
